@@ -1,0 +1,24 @@
+h1{
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: red;
+
+}
+p{
+    color: white;
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background: red;
+
+}
+last text{
+    font-weight: bold;
+}
+body{
+    background: red;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
